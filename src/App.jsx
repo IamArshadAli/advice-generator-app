@@ -26,7 +26,7 @@ const App = () => {
     <main className="main">
       <div className="card">
         <p className="advice-id">
-          Advice {advice.id}
+          Advice #{advice.id}
         </p>
         <h3 className="advice">&quot;{advice.advice}&quot;</h3>
         <picture className="advice-divider">
